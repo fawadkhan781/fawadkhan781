@@ -50,7 +50,6 @@ I build dynamic web applications, WordPress solutions, REST APIs, admin dashboar
 
 <hr>
 
-<!-- PROJECTS -->
 <h2>💼 Featured Projects</h2>
 
 <h3>🟢 WordPress / CMS Projects</h3>
@@ -130,6 +129,67 @@ I build dynamic web applications, WordPress solutions, REST APIs, admin dashboar
   </tbody>
 </table>
 
+<br>
+
+<h3>🟡 Laravel / PHP Projects</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Type</th>
+      <th>Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Wedding Hall Booking System</td>
+      <td>Web Application</td>
+      <td>Laravel, MySQL, AJAX</td>
+    </tr>
+
+    <tr>
+      <td>CO2 Inspection System</td>
+      <td>Backend API System</td>
+      <td>Laravel 12, Sanctum</td>
+    </tr>
+
+    <tr>
+      <td>KHOBRAA Dashboard</td>
+      <td>Admin Panel</td>
+      <td>Laravel</td>
+    </tr>
+
+    <tr>
+      <td>Revivee Platform</td>
+      <td>Full Stack App</td>
+      <td>Laravel</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<h3>🔵 Core PHP Projects</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Type</th>
+      <th>Tech Stack</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Taycan Rent a Car</td>
+      <td>Booking Website</td>
+      <td>Core PHP, MySQL, Bootstrap</td>
+      <td>https://taycanrentacar.com/</td>
+    </tr>
+  </tbody>
+</table>
 <br>
 
 <h3>🟡 Laravel / PHP Projects</h3>
