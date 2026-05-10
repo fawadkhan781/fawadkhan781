@@ -7,9 +7,19 @@ I build dynamic web applications, WordPress solutions, REST APIs, admin dashboar
 </p>
 
 <p align="center">
-📧 Email: fawadgul311@gmail.com ·
-🐙 GitHub: github.com/fawadkhan781 ·
-💼 LinkedIn
+  <a href="mailto:fawadgul311@gmail.com">
+    📧 Email
+  </a>
+  &nbsp;·&nbsp;
+
+  <a href="https://github.com/fawadkhan781" target="_blank">
+    🐙 GitHub
+  </a>
+  &nbsp;·&nbsp;
+
+  <a href="https://www.linkedin.com/" target="_blank">
+    💼 LinkedIn
+  </a>
 </p>
 
 ---
