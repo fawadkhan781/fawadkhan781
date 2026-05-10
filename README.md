@@ -1,282 +1,259 @@
-<article class="markdown-body entry-content container-lg f5" itemprop="text">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Fawad Khan - Profile</title>
+
+<style>
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+        background: #0d1117;
+        color: #e6edf3;
+        margin: 0;
+        padding: 0;
+        line-height: 1.6;
+    }
+
+    .container {
+        max-width: 1000px;
+        margin: auto;
+        padding: 40px 20px;
+    }
+
+    h1, h2, h3 {
+        color: #58a6ff;
+        margin-bottom: 10px;
+    }
+
+    p {
+        color: #c9d1d9;
+    }
+
+    .center {
+        text-align: center;
+    }
+
+    .links a {
+        color: #58a6ff;
+        text-decoration: none;
+        margin: 0 10px;
+        font-weight: bold;
+    }
+
+    .section {
+        margin-top: 40px;
+    }
+
+    ul {
+        padding-left: 20px;
+    }
+
+    .card {
+        background: #161b22;
+        padding: 20px;
+        border-radius: 12px;
+        margin-top: 15px;
+        border: 1px solid #30363d;
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 15px;
+        overflow: hidden;
+        border-radius: 10px;
+    }
+
+    table th, table td {
+        border: 1px solid #30363d;
+        padding: 10px;
+        text-align: left;
+    }
+
+    table th {
+        background: #21262d;
+        color: #58a6ff;
+    }
+
+    table tr:nth-child(even) {
+        background: #161b22;
+    }
+
+    .badge {
+        display: inline-block;
+        padding: 4px 10px;
+        border-radius: 20px;
+        background: #238636;
+        color: white;
+        font-size: 12px;
+    }
+
+    footer {
+        text-align: center;
+        margin-top: 50px;
+        color: #8b949e;
+    }
+</style>
+</head>
+
+<body>
+
+<div class="container">
 
 <!-- HEADER -->
-<h1 align="center">Hi, I'm Fawad Khan 👋</h1>
+<div class="center">
+    <h1>Hi, I'm Fawad Khan 👋</h1>
+    <h3>PHP / Laravel Developer from Pakistan 🇵🇰</h3>
 
-<h3 align="center">
-PHP / Laravel Developer from Pakistan 🇵🇰
-</h3>
+    <p>
+        I build dynamic web applications, WordPress solutions, REST APIs, admin dashboards,
+        and responsive frontend interfaces using Laravel, PHP, MySQL, JavaScript, and WordPress.
+    </p>
 
-<p align="center">
-I build dynamic web applications, WordPress solutions, REST APIs, admin dashboards, and responsive frontend interfaces using Laravel, PHP, MySQL, JavaScript, and WordPress.
-</p>
-
-<p align="center">
-<a href="mailto:fawadgul311@gmail.com">📧 Email</a> ·
-<a href="https://github.com/fawadkhan781">🐙 GitHub</a> ·
-<a href="https://www.linkedin.com/">💼 LinkedIn</a>
-</p>
-
-<hr>
+    <div class="links">
+        <a href="mailto:fawadgul311@gmail.com">📧 Email</a>
+        <a href="https://github.com/fawadkhan781">🐙 GitHub</a>
+        <a href="https://www.linkedin.com/">💼 LinkedIn</a>
+    </div>
+</div>
 
 <!-- ABOUT -->
-<h2>🚀 About Me</h2>
-
-<ul>
-  <li>💻 1.8+ years of professional web development experience</li>
-  <li>⚡ Specialized in Laravel, PHP, WordPress, and frontend UI development</li>
-  <li>🔐 Strong experience in WordPress security & malware recovery</li>
-  <li>🌐 Built healthcare, booking, CRM, CMS & SaaS platforms</li>
-  <li>🛠️ Hands-on experience with REST APIs, AJAX, MySQL, Sanctum</li>
-  <li>📈 Focused on performance, scalability & clean architecture</li>
-</ul>
-
-<hr>
+<div class="section">
+    <h2>🚀 About Me</h2>
+    <div class="card">
+        <ul>
+            <li>💻 1.8+ years of professional web development experience</li>
+            <li>⚡ Laravel, PHP, WordPress & frontend UI specialist</li>
+            <li>🔐 WordPress security & malware recovery expert</li>
+            <li>🌐 Healthcare, CRM, CMS & SaaS systems builder</li>
+            <li>🛠️ REST APIs, AJAX, MySQL, Sanctum experience</li>
+            <li>📈 Focused on scalable & clean architecture</li>
+        </ul>
+    </div>
+</div>
 
 <!-- TECH STACK -->
-<h2>🛠️ Tech Stack</h2>
+<div class="section">
+    <h2>🛠️ Tech Stack</h2>
 
-<h3>Backend</h3>
-<p>PHP · Laravel · CodeIgniter · MySQL</p>
+    <div class="card">
+        <h3>Backend</h3>
+        <p>PHP · Laravel · CodeIgniter · MySQL</p>
 
-<h3>Frontend</h3>
-<p>HTML5 · CSS3 · Bootstrap 5 · JavaScript · jQuery · AJAX · Tailwind CSS · Alpine.js</p>
+        <h3>Frontend</h3>
+        <p>HTML5 · CSS3 · Bootstrap · JavaScript · jQuery · AJAX · Tailwind · Alpine.js</p>
 
-<h3>CMS / Builders</h3>
-<p>WordPress · Elementor · ACF · Custom Post Types (CPT) · Webflow · GoHighLevel</p>
+        <h3>CMS</h3>
+        <p>WordPress · Elementor · ACF · CPT · Webflow · GoHighLevel</p>
 
-<h3>Tools</h3>
-<p>Git & GitHub · cPanel / WHM · FTP · Postman · Vite · Cloudflare</p>
+        <h3>Tools</h3>
+        <p>Git · GitHub · cPanel · Postman · Vite · Cloudflare</p>
+    </div>
+</div>
 
-<hr>
+<!-- PROJECTS -->
+<div class="section">
+    <h2>💼 Featured Projects</h2>
 
-<h2>💼 Featured Projects</h2>
+    <div class="card">
+        <h3>🟢 WordPress / CMS Projects</h3>
 
-<h3>🟢 WordPress / CMS Projects</h3>
+        <table>
+            <tr>
+                <th>Project</th>
+                <th>Type</th>
+                <th>Tech</th>
+                <th>Link</th>
+            </tr>
+            <tr>
+                <td>Praxi Plus Health Funnels</td>
+                <td>Marketing Funnel</td>
+                <td>WordPress + GHL</td>
+                <td>https://praxiplushealth.com/</td>
+            </tr>
+            <tr>
+                <td>Art Revo</td>
+                <td>Security Optimization</td>
+                <td>WordPress</td>
+                <td>https://artrevo.net/</td>
+            </tr>
+            <tr>
+                <td>Pure Soul Care</td>
+                <td>Business Site</td>
+                <td>WordPress SEO</td>
+                <td>https://www.puresoulcare.co.uk/</td>
+            </tr>
+            <tr>
+                <td>Untitled Haus</td>
+                <td>UI/UX Website</td>
+                <td>WordPress</td>
+                <td>https://untitledhaus.com/</td>
+            </tr>
+        </table>
 
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Type</th>
-      <th>Tech Stack</th>
-      <th>Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>3FOLDS Creative Consultancy</td>
-      <td>WordPress Website</td>
-      <td>WordPress, Custom Theme</td>
-      <td>-</td>
-    </tr>
+        <h3>🟡 Laravel Projects</h3>
 
-    <tr>
-      <td>Praxi Plus Health Funnels</td>
-      <td>Marketing Funnel</td>
-      <td>WordPress, GoHighLevel</td>
-      <td>https://praxiplushealth.com/</td>
-    </tr>
+        <table>
+            <tr>
+                <th>Project</th>
+                <th>Type</th>
+                <th>Tech</th>
+            </tr>
+            <tr>
+                <td>Wedding Hall Booking</td>
+                <td>Web App</td>
+                <td>Laravel + MySQL</td>
+            </tr>
+            <tr>
+                <td>CO2 Inspection System</td>
+                <td>API System</td>
+                <td>Laravel 12 + Sanctum</td>
+            </tr>
+            <tr>
+                <td>KHOBRAA Dashboard</td>
+                <td>Admin Panel</td>
+                <td>Laravel</td>
+            </tr>
+        </table>
 
-    <tr>
-      <td>Art Revo</td>
-      <td>Security & Optimization</td>
-      <td>WordPress</td>
-      <td>https://artrevo.net/</td>
-    </tr>
+        <h3>🔵 Core PHP Projects</h3>
 
-    <tr>
-      <td>Pure Soul Care (UK)</td>
-      <td>Business Website</td>
-      <td>WordPress, SEO</td>
-      <td>https://www.puresoulcare.co.uk/</td>
-    </tr>
-
-    <tr>
-      <td>LAA Support Australia</td>
-      <td>Corporate Website</td>
-      <td>WordPress</td>
-      <td>https://laasupport.com.au/</td>
-    </tr>
-
-    <tr>
-      <td>GoTech Mobility</td>
-      <td>Business Website</td>
-      <td>WordPress Custom</td>
-      <td>https://gotechmobility.com/</td>
-    </tr>
-
-    <tr>
-      <td>Amir Moh Website</td>
-      <td>Portfolio Website</td>
-      <td>WordPress (ACF, CPT)</td>
-      <td>https://amirmoh.com/</td>
-    </tr>
-
-    <tr>
-      <td>Salaheddine Kassab</td>
-      <td>Portfolio Website</td>
-      <td>WordPress Custom</td>
-      <td>https://salaheddinekassab.com/</td>
-    </tr>
-
-    <tr>
-      <td>Untitled Haus</td>
-      <td>Modern UI/UX Website</td>
-      <td>WordPress</td>
-      <td>https://untitledhaus.com/</td>
-    </tr>
-  </tbody>
-</table>
-
-<br>
-
-<h3>🟡 Laravel / PHP Projects</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Type</th>
-      <th>Tech Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Wedding Hall Booking System</td>
-      <td>Web Application</td>
-      <td>Laravel, MySQL, AJAX</td>
-    </tr>
-
-    <tr>
-      <td>CO2 Inspection System</td>
-      <td>Backend API System</td>
-      <td>Laravel 12, Sanctum</td>
-    </tr>
-
-    <tr>
-      <td>KHOBRAA Dashboard</td>
-      <td>Admin Panel</td>
-      <td>Laravel</td>
-    </tr>
-
-    <tr>
-      <td>Revivee Platform</td>
-      <td>Full Stack App</td>
-      <td>Laravel</td>
-    </tr>
-  </tbody>
-</table>
-
-<br>
-
-<h3>🔵 Core PHP Projects</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Type</th>
-      <th>Tech Stack</th>
-      <th>Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Taycan Rent a Car</td>
-      <td>Booking Website</td>
-      <td>Core PHP, MySQL, Bootstrap</td>
-      <td>https://taycanrentacar.com/</td>
-    </tr>
-  </tbody>
-</table>
-<br>
-
-<h3>🟡 Laravel / PHP Projects</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Type</th>
-      <th>Tech Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Wedding Hall Booking System</td>
-      <td>Web Application</td>
-      <td>Laravel, MySQL, AJAX</td>
-    </tr>
-
-    <tr>
-      <td>CO2 Inspection System</td>
-      <td>Backend API System</td>
-      <td>Laravel 12, Sanctum</td>
-    </tr>
-
-    <tr>
-      <td>KHOBRAA Dashboard</td>
-      <td>Admin Panel</td>
-      <td>Laravel</td>
-    </tr>
-
-    <tr>
-      <td>Revivee Platform</td>
-      <td>Full Stack App</td>
-      <td>Laravel</td>
-    </tr>
-  </tbody>
-</table>
-
-<br>
-
-<h3>🔵 Core PHP Projects</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Type</th>
-      <th>Tech Stack</th>
-      <th>Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Taycan Rent a Car</td>
-      <td>Booking Website</td>
-      <td>Core PHP, MySQL, Bootstrap</td>
-      <td>https://taycanrentacar.com/</td>
-    </tr>
-  </tbody>
-</table>
-
-<hr>
+        <table>
+            <tr>
+                <th>Project</th>
+                <th>Tech</th>
+                <th>Link</th>
+            </tr>
+            <tr>
+                <td>Taycan Rent a Car</td>
+                <td>Core PHP + MySQL</td>
+                <td>https://taycanrentacar.com/</td>
+            </tr>
+        </table>
+    </div>
+</div>
 
 <!-- SECURITY -->
-<h2>🔐 WordPress Security Experience</h2>
-<ul>
-  <li>Removed 3000+ malicious .htaccess files</li>
-  <li>Malware forensic analysis & cleanup</li>
-  <li>WordPress core restoration & hardening</li>
-  <li>SEO spam removal</li>
-  <li>cPanel / WHM level fixes</li>
-</ul>
-
-<hr>
+<div class="section">
+    <h2>🔐 WordPress Security Experience</h2>
+    <div class="card">
+        <ul>
+            <li>Removed 3000+ malicious .htaccess files</li>
+            <li>Malware cleanup & forensic analysis</li>
+            <li>WordPress core restoration</li>
+            <li>SEO spam removal</li>
+            <li>cPanel / WHM fixes</li>
+        </ul>
+    </div>
+</div>
 
 <!-- FOOTER -->
-<h2>📫 Connect With Me</h2>
+<footer>
+    ⭐ Always learning, improving, and building production-ready systems.
+</footer>
 
-<p>
-📧 Email: fawadgul311@gmail.com<br>
-🐙 GitHub: github.com/fawadkhan781<br>
-💼 LinkedIn: linkedin.com/in/fawad-khan1999
-</p>
+</div>
 
-<p align="center">
-⭐ Always learning, improving, and building production-ready solutions.
-</p>
-
-</article>
+</body>
+</html>
