@@ -54,56 +54,143 @@ I build dynamic web applications, WordPress solutions, REST APIs, admin dashboar
 <h2>💼 Featured Projects</h2>
 
 <h3>🟢 WordPress / CMS Projects</h3>
-<ul>
-  <li><strong>3FOLDS Creative Consultancy</strong> — WordPress Custom Theme</li>
 
-  <li><strong>Praxi Plus Health Funnels</strong> — WordPress + GoHighLevel<br>
-    🔗 https://praxiplushealth.com/
-  </li>
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Type</th>
+      <th>Tech Stack</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>3FOLDS Creative Consultancy</td>
+      <td>WordPress Website</td>
+      <td>WordPress, Custom Theme</td>
+      <td>-</td>
+    </tr>
 
-  <li><strong>Art Revo</strong> — Security Recovery & Optimization<br>
-    🔗 https://artrevo.net/
-  </li>
+    <tr>
+      <td>Praxi Plus Health Funnels</td>
+      <td>Marketing Funnel</td>
+      <td>WordPress, GoHighLevel</td>
+      <td>https://praxiplushealth.com/</td>
+    </tr>
 
-  <li><strong>Pure Soul Care (UK)</strong> — SEO & UI Optimization<br>
-    🔗 https://www.puresoulcare.co.uk/
-  </li>
+    <tr>
+      <td>Art Revo</td>
+      <td>Security & Optimization</td>
+      <td>WordPress</td>
+      <td>https://artrevo.net/</td>
+    </tr>
 
-  <li><strong>LAA Support (Australia)</strong> — WordPress Development<br>
-    🔗 https://laasupport.com.au/
-  </li>
+    <tr>
+      <td>Pure Soul Care (UK)</td>
+      <td>Business Website</td>
+      <td>WordPress, SEO</td>
+      <td>https://www.puresoulcare.co.uk/</td>
+    </tr>
 
-  <li><strong>GoTech Mobility</strong> — Custom WordPress Development<br>
-    🔗 https://gotechmobility.com/
-  </li>
+    <tr>
+      <td>LAA Support Australia</td>
+      <td>Corporate Website</td>
+      <td>WordPress</td>
+      <td>https://laasupport.com.au/</td>
+    </tr>
 
-  <li><strong>Amir Moh Website</strong> — ACF + CPT + Custom Theme<br>
-    🔗 https://amirmoh.com/
-  </li>
+    <tr>
+      <td>GoTech Mobility</td>
+      <td>Business Website</td>
+      <td>WordPress Custom</td>
+      <td>https://gotechmobility.com/</td>
+    </tr>
 
-  <li><strong>Salaheddine Kassab</strong> — WordPress Custom Build<br>
-    🔗 https://salaheddinekassab.com/
-  </li>
+    <tr>
+      <td>Amir Moh Website</td>
+      <td>Portfolio Website</td>
+      <td>WordPress (ACF, CPT)</td>
+      <td>https://amirmoh.com/</td>
+    </tr>
 
-  <li><strong>Untitled Haus</strong> — Modern UI/UX WordPress Website<br>
-    🔗 https://untitledhaus.com/
-  </li>
-</ul>
+    <tr>
+      <td>Salaheddine Kassab</td>
+      <td>Portfolio Website</td>
+      <td>WordPress Custom</td>
+      <td>https://salaheddinekassab.com/</td>
+    </tr>
+
+    <tr>
+      <td>Untitled Haus</td>
+      <td>Modern UI/UX Website</td>
+      <td>WordPress</td>
+      <td>https://untitledhaus.com/</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
 
 <h3>🟡 Laravel / PHP Projects</h3>
-<ul>
-  <li>Wedding Hall Booking System — Laravel + AJAX + MySQL</li>
-  <li>CO2 Backend Inspection System — Laravel 12 + Sanctum API</li>
-  <li>KHOBRAA Dashboard — Laravel Admin Panel</li>
-  <li>Revivee Platform — Full Stack Laravel Application</li>
-</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Type</th>
+      <th>Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Wedding Hall Booking System</td>
+      <td>Web Application</td>
+      <td>Laravel, MySQL, AJAX</td>
+    </tr>
+
+    <tr>
+      <td>CO2 Inspection System</td>
+      <td>Backend API System</td>
+      <td>Laravel 12, Sanctum</td>
+    </tr>
+
+    <tr>
+      <td>KHOBRAA Dashboard</td>
+      <td>Admin Panel</td>
+      <td>Laravel</td>
+    </tr>
+
+    <tr>
+      <td>Revivee Platform</td>
+      <td>Full Stack App</td>
+      <td>Laravel</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
 
 <h3>🔵 Core PHP Projects</h3>
-<ul>
-  <li><strong>Taycan Rent a Car</strong> — Core PHP + Bootstrap + MySQL<br>
-    🔗 https://taycanrentacar.com/
-  </li>
-</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Type</th>
+      <th>Tech Stack</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Taycan Rent a Car</td>
+      <td>Booking Website</td>
+      <td>Core PHP, MySQL, Bootstrap</td>
+      <td>https://taycanrentacar.com/</td>
+    </tr>
+  </tbody>
+</table>
 
 <hr>
 
