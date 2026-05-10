@@ -17,7 +17,7 @@ I build dynamic web applications, WordPress solutions, REST APIs, admin dashboar
   </a>
   &nbsp;·&nbsp;
 
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/fawad-khan1999/" target="_blank">
     💼 LinkedIn
   </a>
 </p>
