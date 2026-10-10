@@ -1,7 +1,7 @@
 <!-- ===================== HERO ===================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=Fawad%20Khan&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=WordPress%20%7C%20Laravel%20%7C%20Next.js%20Developer&descSize=18&descAlignY=60" width="100%" alt="Fawad Khan developer header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=Fawad%20Khan&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=WordPress%20%7C%20PHP & Laravel%20%7C%20Next.js%20Developer&descSize=18&descAlignY=60" width="100%" alt="Fawad Khan developer header" />
 </div>
 
 <div align="center">
