@@ -1,189 +1,274 @@
- <div align="center">
+<!-- ===================== HERO ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=210&section=header&text=Fawad%20Khan&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=WordPress%20%7C%20PHP%20%26%20Laravel%20%7C%20Next.js%20Developer&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Fawad Khan profile banner" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=Fawad%20Khan&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=WordPress%20%7C%20Laravel%20%7C%20Next.js%20Developer&descSize=18&descAlignY=60" width="100%" alt="Fawad Khan developer header" />
+</div>
 
-<h3>Building Practical, Reliable & User-Friendly Web Experiences</h3>
+<div align="center">
 
-<p>
-  <a href="https://mzahidkhan.com/fawadkhan/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/fawad-khan1999"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:fawadgul311@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+### 👨‍💻 Web Developer | CMS Specialist | Problem Solver
 
-<img src="https://komarev.com/ghpvc/?username=fawadkhan781&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views" />
+Building modern websites, secure web experiences, and practical digital solutions.
+
+<a href="https://mzahidkhan.com/fawadkhan/"><img src="https://img.shields.io/badge/Portfolio-Visit_My_Work-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/fawad-khan1999"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:fawadgul311@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<img src="https://img.shields.io/badge/Location-Pakistan-15803D?style=flat-square" alt="Location: Pakistan" />
+<img src="https://img.shields.io/badge/Focus-Web_Development-0F766E?style=flat-square" alt="Web Development" />
 
 </div>
 
 ---
 
-## 👋 About Me
+## 🚀 About Me
 
-I'm a web developer focused on building and maintaining websites, web applications, and content management systems.
+Hi! I'm **Fawad Khan**, a web developer working with **Art Revo**, a UAE-based company.
 
-- 💼 Working with **Art Revo**, supporting web development and website maintenance.
-- 🌐 Experienced with **WordPress, WooCommerce, Elementor, custom themes, and PHP**.
-- ⚙️ Building web applications with **Laravel, MySQL, React, and Next.js**.
-- 🛡️ Interested in website security, troubleshooting, performance optimization, and Core Web Vitals.
-- 🔌 Working with APIs, third-party integrations, forms, and CMS workflows.
-- 🤝 Comfortable collaborating with remote teams and communicating about project requirements.
+I develop and maintain WordPress websites, WooCommerce stores, custom themes, and web applications. My work also involves Laravel development, website security, performance optimization, and modern frontend technologies.
 
-I focus on writing maintainable code, solving practical problems, and delivering reliable web experiences.
+- 💼 Experience working with a remote development team
+- 🌐 WordPress, WooCommerce, Elementor, and custom themes
+- ⚙️ PHP, Laravel, MySQL, and REST APIs
+- ⚡ Next.js and modern frontend development
+- 🔐 WordPress security, malware cleanup, and website recovery
+- 📈 Website performance and technical SEO
+- 🤝 Interested in remote opportunities and professional collaborations
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Technologies & Tools
+
+<div align="center">
 
 ### CMS & E-commerce
 
-<p>
-  <img src="https://skillicons.dev/icons?i=wordpress" height="42" alt="WordPress" />
-  <img src="https://skillicons.dev/icons?i=woocommerce" height="42" alt="WooCommerce" />
-  <img src="https://skillicons.dev/icons?i=php" height="42" alt="PHP" />
-</p>
+<img src="https://skillicons.dev/icons?i=wordpress" height="48" alt="WordPress" />
+<img src="https://cdn.simpleicons.org/woocommerce/96588A" height="48" alt="WooCommerce" />
 
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
-![ACF](https://img.shields.io/badge/Advanced%20Custom%20Fields-00A0D2?style=flat-square&logo=wordpress&logoColor=white)
-![Custom Themes](https://img.shields.io/badge/Custom%20Themes-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" alt="Elementor" />
+  <img src="https://img.shields.io/badge/ACF-00A0D2?style=flat-square" alt="Advanced Custom Fields" />
+  <img src="https://img.shields.io/badge/Custom_Themes-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="Custom WordPress Themes" />
+  <img src="https://img.shields.io/badge/GoHighLevel-111827?style=flat-square" alt="GoHighLevel" />
+</p>
 
 ### Backend & Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres" alt="Backend technologies" />
-</p>
-
-![REST API](https://img.shields.io/badge/REST%20APIs-2563EB?style=flat-square)
-![Laravel Sanctum](https://img.shields.io/badge/Laravel%20Sanctum-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
-
-### Frontend
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql" height="48" alt="PHP, Laravel and MySQL" />
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,nextjs,tailwind,bootstrap" alt="Frontend technologies" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
+  <img src="https://img.shields.io/badge/REST_APIs-0F766E?style=flat-square" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Laravel_Sanctum-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel Sanctum" />
 </p>
 
-### Tools & Deployment
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,nextjs,tailwind,bootstrap" height="48" alt="HTML, CSS, JavaScript, jQuery, React, Next.js, Tailwind CSS and Bootstrap" />
+
+### Development Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,cloudflare,vite,vercel,vscode" height="48" alt="Git, GitHub, Postman, Cloudflare, Vite, Vercel and VS Code" />
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,cloudflare" alt="Development tools" />
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white" alt="cPanel" />
+  <img src="https://img.shields.io/badge/WHM-005A9C?style=flat-square" alt="WHM" />
 </p>
 
-![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
-![WHM](https://img.shields.io/badge/WHM-FF6C2C?style=flat-square)
-![Website Security](https://img.shields.io/badge/Website%20Security-15803D?style=flat-square)
-![Performance](https://img.shields.io/badge/Performance%20Optimization-0E7490?style=flat-square)
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Selected Projects
+
+<p align="center">Client websites, CMS development, maintenance, security, and web applications.</p>
+
+### 🌐 WordPress & Client Website Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 Art Revo</h3>
-      <p>Website development and maintenance, WordPress security recovery, performance improvements, and Next.js/headless CMS work.</p>
-      <p><strong>Focus:</strong> WordPress, WooCommerce, Next.js, CMS</p>
-      <a href="https://artrevo.net/">Visit Website →</a>
+      <h3>🎨 Art Revo</h3>
+      <p>Website development and maintenance, security recovery, performance improvements, and Next.js/headless CMS work.</p>
+      <p>
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce" />
+      </p>
+      <a href="https://artrevo.net/">Visit Website ↗</a>
     </td>
     <td width="50%" valign="top">
       <h3>🏥 Praxi Plus Health</h3>
-      <p>Website maintenance, landing-page improvements, and updates to treatment forms and content layouts.</p>
-      <p><strong>Focus:</strong> WordPress, Forms, UI Improvements</p>
-      <a href="https://praxiplushealth.com/">Visit Website →</a>
+      <p>Healthcare website improvements, landing pages, treatment form updates, and patient-focused website experiences.</p>
+      <p>
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+        <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" alt="Elementor" />
+      </p>
+      <a href="https://praxiplushealth.com/">Visit Website ↗</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎨 3Folds</h3>
-      <p>Custom WordPress theme work and team-management functionality through the WordPress dashboard.</p>
-      <p><strong>Focus:</strong> WordPress, PHP, Custom Themes</p>
+      <h3>🏡 Untitled Haus</h3>
+      <p>Website maintenance, troubleshooting, content updates, and WordPress security cleanup.</p>
+      <p>
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+        <img src="https://img.shields.io/badge/Security-Management-15803D?style=flat-square" alt="Website Security" />
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ Untitled Haus</h3>
-      <p>Website maintenance, troubleshooting, security-related cleanup, and content updates.</p>
-      <p><strong>Focus:</strong> WordPress, Maintenance, Security</p>
+      <h3>🧩 3Folds</h3>
+      <p>Custom WordPress theme development, team management functionality, and client-requested website refinements.</p>
+      <p>
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📰 Five Eighty</h3>
+      <p>Website content maintenance and article publishing updates.</p>
+      <p>
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+        <img src="https://img.shields.io/badge/Content-Management-475569?style=flat-square" alt="Content Management" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🩺 SAH Forensic Medical Center</h3>
+      <p>Website project and development work for a medical center.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Website-Development-2563EB?style=flat-square" alt="Website Development" />
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📅 Personal Branding Booking</h3>
-      <p>Next.js booking-form integration with an embedded Google Calendar booking experience and lead-capture workflow.</p>
-      <p><strong>Focus:</strong> Next.js, Forms, Integrations</p>
+      <p>Next.js booking form integration with an embedded Google Calendar booking experience and lead capture workflow.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Google_Calendar-4285F4?style=flat-square&logo=googlecalendar&logoColor=white" alt="Google Calendar" />
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🚘 Vehicle Inspection System</h3>
-      <p>A Laravel-based application focused on vehicle inspection workflows and backend functionality.</p>
-      <p><strong>Focus:</strong> Laravel, MySQL, Sanctum</p>
+      <h3>🩻 Diamond Plus Medical Center</h3>
+      <p>New client opportunity at the project planning and coordination stage.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Client-Project-64748B?style=flat-square" alt="Client Project" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+### ⚙️ Laravel & Web Application Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚗 Vehicle Inspection System</h3>
+      <p>Vehicle inspection application with backend functionality and API authentication.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel 12" />
+        <img src="https://img.shields.io/badge/Sanctum-FF2D20?style=flat-square" alt="Laravel Sanctum" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏨 Wedding Hall Booking System</h3>
+      <p>Booking application designed around venue information and reservation workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Web_App-2563EB?style=flat-square" alt="Web Application" />
+        <img src="https://img.shields.io/badge/Booking_System-0F766E?style=flat-square" alt="Booking System" />
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏨 Wedding Hall Booking System</h3>
-      <p>A booking application concept designed to organize hall information and reservation workflows.</p>
-      <p><strong>Focus:</strong> Web Application, Booking Workflow</p>
+      <h3>📊 KHOBRAA Dashboard</h3>
+      <p>Dashboard project focused on management functionality and presenting application data.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Web_Development-2563EB?style=flat-square" alt="Web Development" />
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🚗 Taycan Rent a Car</h3>
-      <p>A car-rental web project built around vehicle information and rental-related functionality.</p>
-      <p><strong>Focus:</strong> PHP, MySQL</p>
+      <h3>🚘 Taycan Rent a Car</h3>
+      <p>Car rental website project built with server-side functionality and database integration.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Core_PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="Core PHP" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <a href="https://github.com/fawadkhan781?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all GitHub repositories" />
+  </a>
+</div>
+
+---
+
+## 🔐 Website Security & Performance
+
+<table>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <h3>🛡️ Security</h3>
+      <p>Malware investigation<br />Malicious file cleanup<br />WordPress recovery</p>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h3>⚡ Performance</h3>
+      <p>Website optimization<br />Core Web Vitals<br />Technical SEO</p>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h3>🔧 Maintenance</h3>
+      <p>Updates and bug fixes<br />cPanel and Cloudflare<br />Troubleshooting</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ What I Work On
-
-- **WordPress Development:** Custom themes, Elementor, WooCommerce, and CMS customization.
-- **Backend Development:** PHP, Laravel, database operations, and API integrations.
-- **Frontend Development:** Responsive interfaces with HTML, CSS, JavaScript, and Next.js.
-- **Website Maintenance:** Troubleshooting, malware cleanup, updates, and recovery.
-- **Performance:** Page-speed improvements, Core Web Vitals, and technical optimization.
-- **Deployment & Hosting:** Git workflows, cPanel/WHM, DNS, and Cloudflare configuration.
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=fawadkhan781&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&include_all_commits=true" alt="GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawadkhan781&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used programming languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fawadkhan781&theme=github-compact&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
-- Improving WordPress and WooCommerce development workflows.
-- Building and maintaining web applications with PHP and Laravel.
-- Developing modern websites with Next.js and API integrations.
-- Improving website security, reliability, and performance.
-- Learning through practical projects and collaborative development.
+- Building and maintaining WordPress and WooCommerce websites
+- Developing custom themes and maintainable website solutions
+- Improving Laravel applications and REST API functionality
+- Working with Next.js and headless CMS workflows
+- Strengthening website security and performance
+- Delivering practical solutions for client requirements
+
+---
+
+## 📊 GitHub Overview
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fawadkhan781&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawadkhan781&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Most used programming languages" />
+</div>
 
 ---
 
 ## 🤝 Let's Connect
 
-Have a website project, development opportunity, or collaboration in mind? Feel free to connect.
-
 <div align="center">
 
-<a href="https://mzahidkhan.com/fawadkhan/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/fawad-khan1999"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/fawadkhan781"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:fawadgul311@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+I'm open to remote opportunities, freelance projects, and collaborations in WordPress, WooCommerce, Laravel, and web development.
 
-<p><i>Building better web experiences, one project at a time.</i></p>
+<br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=100&section=footer" width="100%" alt="Footer banner" />
+<a href="https://mzahidkhan.com/fawadkhan/"><img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/fawad-khan1999"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:fawadgul311@gmail.com"><img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br /><br />
+
+<i>Thanks for visiting my profile. Let's build something useful! 🚀</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=110&section=footer" width="100%" alt="Profile footer" />
 
 </div>
