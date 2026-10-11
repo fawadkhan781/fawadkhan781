@@ -10,7 +10,7 @@
 
 Building modern websites, secure web experiences, and practical digital solutions.
 
-<a href="https://mzahidkhan.com/fawadkhan/"><img src="https://img.shields.io/badge/Portfolio-Visit_My_Work-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.fawadkhan.dev/"><img src="https://img.shields.io/badge/Portfolio-Visit_My_Work-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/fawad-khan1999"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:fawadgul311@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
@@ -261,7 +261,7 @@ I'm open to remote opportunities, freelance projects, and collaborations in Word
 
 <br />
 
-<a href="https://mzahidkhan.com/fawadkhan/"><img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.fawadkhan.dev/"><img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/fawad-khan1999"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:fawadgul311@gmail.com"><img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
